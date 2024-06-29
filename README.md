@@ -1,23 +1,21 @@
-Features:
+# Simple Calculator
 
-Basic Arithmetic Operations: Addition, subtraction, multiplication, and division.
+A simple web-based calculator application that performs basic arithmetic operations and includes additional functionalities like clear and backspace.
 
-Clear Functionality: Clear button to reset calculations.
+## Features
 
-Backspace Functionality: Remove the last digit entered.
+- **Basic Arithmetic Operations:** Addition, subtraction, multiplication, and division.
+- **Clear Functionality:** Clear button to reset calculations.
+- **Backspace Functionality:** Remove the last digit entered.
+- **Responsive Design:** Optimized for various screen sizes.
 
-Responsive Design: Optimized for various screen sizes.
+## Usage
 
-Usage:
+- **Operation Buttons:** Click on the respective buttons (`+`, `-`, `×`, `÷`) to perform calculations.
+- **Numeric Buttons:** Input numbers (`0-9`) for calculations.
+- **Clear Button (`C`):** Resets the calculator to start a new calculation.
+- **Backspace Button (`←`):** Removes the last entered digit.
 
-Operation Buttons: Click on the respective buttons (+, -, ×, ÷) to perform calculations.
+## Installation
 
-Numeric Buttons: Input numbers (0-9) for calculations.
-
-Clear Button (C): Resets the calculator to start a new calculation.
-
-Backspace Button (←): Removes the last entered digit.
-
-Installation:
-
-No installation required. Simply open index.html in a web browser.
+No installation required. Simply open `index.html` in a web browser.
